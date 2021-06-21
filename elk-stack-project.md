@@ -120,4 +120,5 @@ The following are the commands to run the playbooks. These playbooks are copied 
 - ansible-playbook webservers-config-playbook.yml'''
 
 Using the command docker cp /home/azureuser/files cranky_euclid:/etc/ansible we can copy the playbook files into docker.
+
 ---
