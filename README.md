@@ -76,7 +76,7 @@ The following screenshot displays the result of running `docker ps` after succes
 This ELK server is configured to monitor the following machines:
 
 | Name      |   IP Address   |
-| ---------------------------|
+| --------- | ---------------|
 | VM-Web01  |  10.0.0.5      |
 | VM-Web02  |  10.0.0.6      |
 | VM-Web03  |  10.0.0.7      |
